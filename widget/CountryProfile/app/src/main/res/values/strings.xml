@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CountryProfile</string>
+    <string name="bd">bangladesh</string>
+    <string name="bd_text2">Bangladesh is a beautiful country and peaceful country
+    India is a beautiful country and peaceful country</string>
+    <string name="india">India</string>
+    <string name="india_text">India is a beautiful country and peaceful country</string>
+    <string name="pak">pakistan</string>
+    <string name="pak_text">Pakistan is a beautiful country and peaceful country</string>
+
+</resources>

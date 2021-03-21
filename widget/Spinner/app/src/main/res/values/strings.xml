@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="numbers">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+    <string name="Quantam">
+        31/v Shilpacharya Zainul Abedin Sarak,Shantinagar,Dhaka 1217
+        Phone:029351969
+    </string>
+    <string name="Red_Cresent">
+       7/5,Aurangzeb Road,Mohammadpur,Dhaka
+        Phone:029116563,028121497,029139940
+    </string>
+</resources>

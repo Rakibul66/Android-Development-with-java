@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+
+    <Button
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:text="@string/bd"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:id="@+id/bdid"
+        android:drawableLeft="@drawable/ic_brightness_4_black_24dp"
+
+    />
+    <Button
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:text="@string/india"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:id="@+id/indiaid"
+        android:drawableLeft="@drawable/ic_brightness_5_black_24dp"
+
+        />
+    <Button
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:text="@string/pak"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:id="@+id/pakid"
+        android:drawableLeft="@drawable/ic_brightness_6_black_24dp"
+
+        />
+    </LinearLayout>
+
